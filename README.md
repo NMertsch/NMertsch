@@ -5,6 +5,7 @@
 * Languages: Mainly Python, also Java, C#, SQL, Bash, and whatever is needed to get the job done
 * Location: From Germany, living in Switzerland
 * LinkedIn: [in/niklas-mertsch](https://linkedin.com/in/niklas-mertsch)
+* Languages: German, English
 
 ## Public projects
 
