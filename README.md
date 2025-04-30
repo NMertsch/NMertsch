@@ -1,6 +1,6 @@
 ## About me
 
-* Job: Software developer
+* Job: Software Developer, Data Engineer, Lab Digitalization/Automation Consultant
 * Field: Data-related projects for life science labs (mostly data engineering, rarely data science)
 * Languages: Mainly Python, also Java, C#, SQL, Bash, and whatever is needed to get the job done
 * Location: From Germany, living in Switzerland
@@ -12,8 +12,9 @@
 [SiLA2](https://sila-standard.com/)-related:
 
 * Author: [sila_python](https://gitlab.com/SiLA2/sila_python): Python implementation of the SiLA2 standard (Python, gRPC)
-* Author: [sila_interoperability](https://gitlab.com/SiLA2/sila_interoperability): Interoperability test framework for SiLA2 implementations (Python, gRPC) 
-* Author: [sila2-proto-generator-web](https://gitlab.com/NMertsch/sila2-proto-generator-web): Static website for converting SiLA2 feature defnitions to .proto (HTML, Vanilla JS)
+* Author: [sila_interoperability](https://gitlab.com/SiLA2/sila_interoperability): Interoperability test framework for SiLA2 implementations (Python, gRPC)
+* Author: [sila_base/xslt](https://gitlab.com/SiLA2/sila_base/-/tree/master/xslt): XML-to-Protobuf converter written in XSLT 1.0 for cross-language compatibility (XSLT, Protobuf)
+* Author: [sila2-proto-generator-web](https://gitlab.com/NMertsch/sila2-proto-generator-web): Static website for converting SiLA2 feature defnitions (XML) to Protobuf (HTML, Vanilla JS)
 * Contributor: [SiLA2 specification](https://sila-standard.com/standards/) for laboratory automation (gRPC)
 * Contributor: [sila_java](https://gitlab.com/SiLA2/sila_java): Java implementation of the SiLA2 standard (Java, gRPC)
 
@@ -44,16 +45,3 @@ However, when I find an issue with a FOSS project I'm using, I create a ticket a
 * Co-organizer of the [EuroPython conference](https://europython.eu) in 2024 and 2025, on-site volunteer in 2023
   * Administration and bot development/maintenance for the conference Discord server: [europython/discord](https://github.com/europython/discord)
   * Tech and non-tech support for attendees
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
