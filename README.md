@@ -33,9 +33,12 @@ Stale:
 Most of my daily work is not public.
 However, when I find an issue with a FOSS project I'm using, I create a ticket and (if feasible) try to make a PR. Here is a selection:
 
+* **beeware**:
+    * toga: Add type annotations (https://github.com/beeware/toga/pull/2044)
+    * briefcase: Use `git config` as default author/email if available (https://github.com/beeware/briefcase/pull/2271)
+    * briefcase: Align license terminology with SPDX license list (https://github.com/beeware/briefcase/pull/2272)
 * **twobitreader**: Add Python 3 support (https://github.com/benjschiller/twobitreader/pull/6)
 * **pymssql**: Add PEP 561 support (https://github.com/pymssql/pymssql/pull/926)
-* **toga**: Add type annotations (https://github.com/beeware/toga/pull/2044)
 * **pytest-qt**: Improve docs and CI examples (https://github.com/pytest-dev/pytest-qt/pull/551)
 * **flake8-docstrings**: Raise supported pydocstyle version (https://github.com/PyCQA/flake8-docstrings/pull/48)
 
