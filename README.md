@@ -44,7 +44,7 @@ However, when I find an issue with a FOSS project I'm using, I create a ticket a
 
 ## Communities
 
-* Admin of the SiLA2 [GitLab group](https://gitlab.com/SiLA2/) and [Slack Server](https://sila-standard.org/slack)
+* Administrator of the SiLA2 [GitLab group](https://gitlab.com/SiLA2/) and [Slack Server](https://sila-standard.org/slack)
 * Co-organizer of the [EuroPython conference](https://europython.eu) in 2024 and 2025, on-site volunteer in 2023
   * Administration and bot development/maintenance for the conference Discord server: [europython/discord](https://github.com/europython/discord)
   * Tech and non-tech support for attendees
