@@ -37,6 +37,7 @@ However, when I find an issue with a FOSS project I'm using, I create a ticket a
     * toga: Add type annotations (https://github.com/beeware/toga/pull/2044)
     * briefcase: Use `git config` as default author/email if available (https://github.com/beeware/briefcase/pull/2271)
     * briefcase: Align license terminology with SPDX license list (https://github.com/beeware/briefcase/pull/2272)
+* **GitPython**: Fix documentation rendering issue (https://github.com/gitpython-developers/GitPython/pull/2060)
 * **twobitreader**: Add Python 3 support (https://github.com/benjschiller/twobitreader/pull/6)
 * **pymssql**: Add PEP 561 support (https://github.com/pymssql/pymssql/pull/926)
 * **pytest-qt**: Improve docs and CI examples (https://github.com/pytest-dev/pytest-qt/pull/551)
